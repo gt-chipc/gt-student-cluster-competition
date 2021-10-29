@@ -10,4 +10,4 @@ Team leads and co-instructors, Rich Vuduc (CSE, CHiPC director), Aaron Jezgahni 
 have led students through discussions of challenging topics like application optimization, cluster storage, and networking configurations. Team Phoenix students have 
 also been able to hone their skills in CUDA programming and have tested running the standard Top 500 benchmark, Linpack, on the PACE instructional cluster, PACE-ICE. 
 These undergrads have also benefited from PACE's [Linux 101](https://pace.gatech.edu/linux-101) and [102](https://pace.gatech.edu/linux-102) classes, which have given 
-them a head start in using PACE cluster resources and tool
+them a head start in using PACE cluster resources including the [Phoenix cluster](http://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/), the #277 system on 2020's Top500 list.
