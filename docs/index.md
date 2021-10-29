@@ -11,3 +11,8 @@ have led students through discussions of challenging topics like application opt
 also been able to hone their skills in CUDA programming and have tested running the standard Top 500 benchmark, Linpack, on the PACE instructional cluster, PACE-ICE. 
 These undergrads have also benefited from PACE's [Linux 101](https://pace.gatech.edu/linux-101) and [102](https://pace.gatech.edu/linux-102) classes, which have given 
 them a head start in using PACE cluster resources including the [Phoenix cluster](http://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/), the #277 system on 2020's Top500 list.
+
+Please check out the following pages for more information on recent competition teams:
+* [Supercomputing SCC 2021 (Virtual)](supercomputing-scc-2021.md)
+* [Supercomputing SCC 2020 (Virtual)](supercomputing-scc-2020.md) - 3rd place overall!
+* [Supercomputing SCC 2017](supercomputing-scc-2017.md)
