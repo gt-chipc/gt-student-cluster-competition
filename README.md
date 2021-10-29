@@ -3,7 +3,9 @@
 <p class="aligncenter">
     <img alt="2017 Team Phoenix" width="600" height="400" src="docs/img/gt_student_cluster_competition_team_2017.jpg">
 </p>
-  
+
+**Note:** Please see the Github Pages version of this site [here](https://gt-chipc.github.io/gt-student-cluster-competition/).
+
 Georgia Tech's [Partnership for an Advanced Computing Environment (PACE)](https://pace.gatech.edu) and Georgia Tech's [Center for High-Performance Computing (CHIPC)](http://chipc.gatech.edu/) have collaborated to run a new [Vertically Integrated Projects (VIP)](https://vip.gatech.edu/) class called "Team Phoenix" to support the efforts of our undergraduate [Student Cluster Competition (SCC)](https://studentclustercompetition.us/) team. Enrolled students learn about the ins and outs of high performance computing and supercomputing cluster hardware, software, and applications. 
 
 Team leads and co-instructors, Rich Vuduc (CSE, CHiPC director), Aaron Jezgahni (PACE), Will Powell (CSE), Jeffrey Young (SCS), and Vijay Thakkar (CSE graduate mentor) 
