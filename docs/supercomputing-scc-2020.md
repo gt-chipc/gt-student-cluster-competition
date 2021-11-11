@@ -2,7 +2,7 @@
 
 2020 saw the restart of the GT SCC team as well as the introduction of "Team Phoenix" as our competition team. Due to the COVID-19 pandemic, we competed in a virtual fashion using the Azure cloud. Team Phoenix ended up placing 3rd out of 19 teams! 
 
-Check out the [VSCC 2020 Poster](files/gt_vscc_supercomputing20_poster.pdf) for an overview of the team and our preparation strategy.
+Check out the [VSCC 2020 Poster](files/2020/gt_vscc_supercomputing20_poster.pdf) for an overview of the team and our preparation strategy.
 
 <p class="aligncenter">
     <img alt="2020 Team Phoenix" width="600" height="450" src="img/2020/scc20_team_phoenix_collage.jpg">
