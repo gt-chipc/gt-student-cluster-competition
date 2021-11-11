@@ -4,6 +4,8 @@ The Team Phoenix VIP class provides a structured opportunity for students to lea
 
 See our 2021 [Undergraduate Research Opportunities in Computing (UROC) presentation slides](files/2021/Team_Phoenix_VIP_UROC_Spring_2021.pdf) for some additional details!
 
+**NOTE:** To sign up for this course you need to request a registration permit each semester using the VIP site. See more information [here](https://vip.gatech.edu/apply-undergraduate-students).  
+
 ## What is the goal of “Team Phoenix?”
 We want to train teams for the national Supercomputing Student Cluster Competition (SCC), where you race against a 48-hour clock to assemble, evaluate, and manage the fastest and most reliable cluster you can given a specific power budget and occasional surprise power failures.
 
@@ -14,6 +16,7 @@ We want to train teams for the national Supercomputing Student Cluster Competiti
 
 ## What majors are eligible? 
 * CS, CM, ECE, and ME are especially well-suited, but anyone with an interest in computer-based modeling and simulation is welcome!
+* You typically will sign up for 1-3 hours as an undergrad (starting with 1 hour). Graduate students can sign up for up to 3 credit hours.
 
 ## What topics will you learn about in this course?
 * Parallel algorithms for shared memory and distributed memory systems, including how to reason about correctness and scalability
