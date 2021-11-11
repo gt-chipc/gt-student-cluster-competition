@@ -2,7 +2,7 @@
 
 The Team Phoenix VIP class provides a structured opportunity for students to learn about high-performance computing topics and to participate in student cluster competitions at venues like Supercomputing and the International Supercomputing Conference.
 
-See our 2021 [Undergraduate Research Opportunities in Computing (UROC) presentation slides]() for some additional details!
+See our 2021 [Undergraduate Research Opportunities in Computing (UROC) presentation slides](files/2021/Team_Phoenix_VIP_UROC_Spring_2021.pdf) for some additional details!
 
 ## What is the goal of “Team Phoenix?”
 We want to train teams for the national Supercomputing Student Cluster Competition (SCC), where you race against a 48-hour clock to assemble, evaluate, and manage the fastest and most reliable cluster you can given a specific power budget and occasional surprise power failures.
