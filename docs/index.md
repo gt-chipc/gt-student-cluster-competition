@@ -1,7 +1,7 @@
 # Team Phoenix - Georgia Tech's Student Cluster Competition Team
 
 <p class="aligncenter">
-    <img alt="2017 Team Phoenix" width="600" height="400" src="img/gt_student_cluster_competition_team_2017.jpg">
+    <img alt="2017 Team Phoenix" width="600" height="400" src="img/2017/gt_student_cluster_competition_team_2017.jpg">
 </p>
   
 Georgia Tech's [Partnership for an Advanced Computing Environment (PACE)](https://pace.gatech.edu) and Georgia Tech's [Center for High-Performance Computing (CHIPC)](http://chipc.gatech.edu/) have collaborated to run a new [Vertically Integrated Projects (VIP)](https://vip.gatech.edu/) class called "Team Phoenix" to support the efforts of our undergraduate [Student Cluster Competition (SCC)](https://studentclustercompetition.us/) team. Enrolled students learn about the ins and outs of high performance computing and supercomputing cluster hardware, software, and applications. 
