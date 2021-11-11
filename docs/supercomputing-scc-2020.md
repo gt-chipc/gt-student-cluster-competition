@@ -5,7 +5,7 @@
 Check out the [VSCC 2020 Poster](files/gt_vscc_supercomputing20_poster.pdf) for an overview of the team and our preparation strategy.
 
 <p class="aligncenter">
-    <img alt="2020 Team Phoenix" width="1200" height="800" src="img/2020/scc20_team_phoenix_collage.jpg">
+    <img alt="2020 Team Phoenix" width="900" height="600" src="img/2020/scc20_team_phoenix_collage.jpg">
 </p>
 
 
