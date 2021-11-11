@@ -17,7 +17,6 @@ Georgia Tech first competed at the Supercomputing Student Cluster Competition in
 * Petros Eskinder
 * Nicholas Fahrenkrog
 * Dezhi Fang
-* Manas George
 * David Meyer
 * Jessica Rosenfield
 * Alok Tripathy
