@@ -1,7 +1,7 @@
 # Team Phoenix - Georgia Tech's Student Cluster Competition team and VIP Class
 
 <p class="aligncenter">
-    <img alt="2017 Team Phoenix" width="600" height="400" src="docs/img/gt_student_cluster_competition_team_2017.jpg">
+    <img alt="2017 Team Phoenix" width="600" height="400" src="docs/img/2017/gt_student_cluster_competition_team_2017.jpg">
 </p>
 
 **Note:** Please see the Github Pages version of this site [here](https://gt-chipc.github.io/gt-student-cluster-competition/).

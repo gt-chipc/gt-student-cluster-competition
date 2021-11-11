@@ -16,3 +16,7 @@ Please check out the following pages for more information on recent competition 
 * [Supercomputing SCC 2021 (Virtual)](supercomputing-scc-2021.md)
 * [Supercomputing SCC 2020 (Virtual)](supercomputing-scc-2020.md) - 3rd place overall!
 * [Supercomputing SCC 2017](supercomputing-scc-2017.md)
+
+## Team Phoenix Vertically Integrated Projects (VIP) Class 
+Team Phoenix is also a 1-3 credit course that undergraduates and some graduates can use for electives or senior design requirements. For more information
+on this course, please see this [page](team-phoenix-vip.md) for more details.
