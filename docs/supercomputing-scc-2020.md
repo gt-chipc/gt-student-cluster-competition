@@ -1,4 +1,4 @@
-# Team Phoenix at Supercomputing 2021
+# Team Phoenix at Supercomputing 2020 (Virtual SCC)
 
 2020 saw the restart of the GT SCC team as well as the introduction of "Team Phoenix" as our competition team. Due to the COVID-19 pandemic, we competed in a virtual fashion using the Azure cloud. Team Phoenix ended up placing 3rd out of 19 teams! 
 
