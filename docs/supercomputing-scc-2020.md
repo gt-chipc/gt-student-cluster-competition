@@ -34,8 +34,8 @@ Check out the [VSCC 2020 Poster](files/gt_vscc_supercomputing20_poster.pdf) for 
 
 ## YouTube Videos about our Virtual SCC Experience (produced by Kristen Perez)
 
-[Wrap-up](https://www.youtube.com/watch?v=nTdpKZD9vZM)
-[Day 3](https://www.youtube.com/watch?v=N-vqdtRuQlo)
-[Day 2](https://www.youtube.com/watch?v=YXsu6btPZeM)
-[VSCC Kickoff](https://www.youtube.com/watch?v=iHjCJPsr8hI)
-[Logo](https://www.youtube.com/watch?v=fL1EKehV1I8)
+* [Wrap-up](https://www.youtube.com/watch?v=nTdpKZD9vZM)
+* [Day 3](https://www.youtube.com/watch?v=N-vqdtRuQlo)
+* [Day 2](https://www.youtube.com/watch?v=YXsu6btPZeM)
+* [VSCC Kickoff](https://www.youtube.com/watch?v=iHjCJPsr8hI)
+* [Team Phoenix Logo](https://www.youtube.com/watch?v=fL1EKehV1I8)
