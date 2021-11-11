@@ -1,6 +1,6 @@
 # Team Phoenix VIP Class
 
-The Team Phoenix VIP class provides a structured opportunity for students to learn about high-performance computing topics and to participate in student cluster competitions at venues like Supercomputing and the International Supercomputing Conference.
+The [Team Phoenix VIP class (section VWP)](https://vip.gatech.edu/teams/vwp) provides a structured opportunity for students to learn about high-performance computing topics and to participate in student cluster competitions at venues like Supercomputing and the International Supercomputing Conference.
 
 See our 2021 [Undergraduate Research Opportunities in Computing (UROC) presentation slides](files/2021/Team_Phoenix_VIP_UROC_Spring_2021.pdf) for some additional details!
 
