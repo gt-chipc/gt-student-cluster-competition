@@ -5,7 +5,7 @@
 Check out the [VSCC 2020 Poster](files/2020/gt_vscc_supercomputing20_poster.pdf) for an overview of the team and our preparation strategy.
 
 <p class="aligncenter">
-    <img alt="2020 Team Phoenix" width="600" height="450" src="img/2020/scc20_team_phoenix_collage.jpg">
+    <img alt="2020 Team Phoenix" width="600" height="400" src="img/2020/scc20_team_phoenix_collage.jpg">
 </p>
 
 
@@ -34,8 +34,8 @@ Check out the [VSCC 2020 Poster](files/2020/gt_vscc_supercomputing20_poster.pdf)
 
 ## YouTube Videos about our Virtual SCC Experience (produced by Kristen Perez)
 
-[Wrap-up](https://www.youtube.com/watch?v=nTdpKZD9vZM)
-[Day 3](https://www.youtube.com/watch?v=N-vqdtRuQlo)
-[Day 2](https://www.youtube.com/watch?v=YXsu6btPZeM)
-[VSCC Kickoff](https://www.youtube.com/watch?v=iHjCJPsr8hI)
-[Logo](https://www.youtube.com/watch?v=fL1EKehV1I8)
+* [Wrap-up](https://www.youtube.com/watch?v=nTdpKZD9vZM)
+* [Day 3](https://www.youtube.com/watch?v=N-vqdtRuQlo)
+* [Day 2](https://www.youtube.com/watch?v=YXsu6btPZeM)
+* [VSCC Kickoff](https://www.youtube.com/watch?v=iHjCJPsr8hI)
+* [Team Phoenix Logo](https://www.youtube.com/watch?v=fL1EKehV1I8)
