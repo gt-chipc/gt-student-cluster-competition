@@ -13,6 +13,7 @@ These undergrads have also benefited from PACE's [Linux 101](https://pace.gatech
 them a head start in using PACE cluster resources including the [Phoenix cluster](http://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/), the #277 system on 2020's Top500 list.
 
 Please check out the following pages for more information on recent competition teams:
+* [ISC SCC 2021 (Virtual)](isc-scc-2022.md)
 * [Supercomputing SCC 2021 (Virtual)](supercomputing-scc-2021.md)
 * [Supercomputing SCC 2020 (Virtual)](supercomputing-scc-2020.md) - 3rd place overall!
 * [Supercomputing SCC 2017](supercomputing-scc-2017.md)
