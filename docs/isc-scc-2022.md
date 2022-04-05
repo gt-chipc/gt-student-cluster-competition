@@ -3,7 +3,7 @@
 Georgia Tech will be competing at the 2022 International Supercomputing Student Cluster Competition as a virtual team.
 
 <p class="aligncenter">
-    <img alt="2022 Team Phoenix" width="600" height="450" src="img/2022/isc22_team_phoenix_04_2022.jpg">
+    <img alt="2022 Team Phoenix" width="700" height="450" src="img/2022/isc22_team_phoenix_04_2022.jpg">
 </p>
 
 Our competition team includes the following members:
