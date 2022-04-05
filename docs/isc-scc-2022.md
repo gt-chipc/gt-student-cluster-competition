@@ -1,6 +1,6 @@
 # Team Phoenix at International Supercomputing Conference 2022
 
-Georgia Tech is fielding a virtual team at the 2022 International Supercomputing Conference. 
+Georgia Tech will be competing at the 2022 International Supercomputing Student Cluster Competition as a virtual team.
 
 <p class="aligncenter">
     <img alt="2022 Team Phoenix" width="600" height="450" src="img/2021/scc21_team_phoenix_oct_2021.jpg">
